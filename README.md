@@ -5,6 +5,9 @@
 [项目预览](http://www.myshowtime.cn/index.html)
 
 
+![](http://upload.jianshu.io/users/upload_avatars/1059463/af00749cb216.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96)
+
+
 ## Build Setup
 
 ``` bash
