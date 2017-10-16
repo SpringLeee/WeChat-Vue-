@@ -9,6 +9,8 @@
 
 ![](https://github.com/SpringLeee/WeChat-Vue-/blob/master/src/assets/QQ%E6%88%AA%E5%9B%BE20171016112031.png)
 
+![](https://github.com/SpringLeee/WeChat-Vue-/blob/master/src/assets/QQ截图20171016112126.png)
+
 
 ## Build Setup
 
