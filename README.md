@@ -7,7 +7,7 @@
 
 
 
-![](http://upload.jianshu.io/users/upload_avatars/1059463/af00749cb216.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96)
+![](https://github.com/SpringLeee/WeChat-Vue-/blob/master/src/assets/QQ%E6%88%AA%E5%9B%BE20171016112031.png)
 
 
 ## Build Setup
